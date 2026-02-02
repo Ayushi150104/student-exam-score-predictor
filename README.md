@@ -25,3 +25,6 @@ A machine learning project to predict student exam scores using Streamlit
 ### Application Accessible via Public IP
 ![Live App]![app-browser](https://github.com/user-attachments/assets/d2780a4e-2f82-4e39-9445-0c838904d8af)
 
+
+Live Demo of AWS Free Trial Account (inactive now): http://3.233.239.211:8501/
+Deployment proof: Screenshots available above
