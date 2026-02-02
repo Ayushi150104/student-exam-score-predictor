@@ -11,17 +11,17 @@ A machine learning project to predict student exam scores using Streamlit
 ##### Proof of AWS Deployment
 
 ### EC2 Instance Running
-![EC2 Instance](<img width="1600" height="730" alt="image" src="https://github.com/user-attachments/assets/edcf8977-ddba-49fd-89f4-010fa51e1657" />
-)
+![EC2 Instance]![ec2-instance](https://github.com/user-attachments/assets/dd7e8ccf-ee1b-4130-a4bd-c2a277dec3e9)
+
 
 ### Security Group Configuration
-![Security Group](<img width="1600" height="667" alt="image" src="https://github.com/user-attachments/assets/7accac39-d5e8-4d9b-b7f2-31364fe7c49b" />
-)
+![Security Group]![security-group](https://github.com/user-attachments/assets/bcec8866-6f65-4ae7-8f1a-6148689ccd35)
+
 
 ### Streamlit Running on EC2
-![Streamlit Terminal](<img width="1600" height="727" alt="image" src="https://github.com/user-attachments/assets/7f7d5a81-6ffb-446c-8a4e-ad2f21011d8d" />
-)
+![Streamlit Terminal]![terminal-streamlit](https://github.com/user-attachments/assets/ee5d42e0-923c-47b4-adbb-d03eef12787e)
+
 
 ### Application Accessible via Public IP
-![Live App](<img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/743da6d2-fb86-4349-b27b-462c2ea2fcee" />
-)
+![Live App]![app-browser](https://github.com/user-attachments/assets/d2780a4e-2f82-4e39-9445-0c838904d8af)
+
