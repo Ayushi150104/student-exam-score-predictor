@@ -8,7 +8,7 @@ A machine learning project to predict student exam scores using Streamlit
 📌 Tech Stack: Python, Streamlit, Scikit-learn  
 📂 Source Code: https://github.com/Ayushi150104/student-exam-score-predictor
 
-##### Proof of AWS Deployment
+# Proof of AWS Deployment
 
 ### EC2 Instance Running
 ![EC2 Instance]![ec2-instance](https://github.com/user-attachments/assets/dd7e8ccf-ee1b-4130-a4bd-c2a277dec3e9)
